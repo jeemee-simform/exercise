@@ -8,3 +8,4 @@ commit somthing in new2
 first commit
 second commit
 cherry pick 3 to 4 
+this is for commit message changed
