@@ -5,3 +5,5 @@ pre push add
 pre and post both commit check
 ....
 commit somthing in new2
+first commit
+second commit
