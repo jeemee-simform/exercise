@@ -4,3 +4,5 @@ hyyy yy
 pre push add
 pre and post both commit check
 ....
+first commit
+second commit
