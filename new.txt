@@ -7,3 +7,4 @@ pre and post both commit check
 commit somthing in new2
 first commit
 second commit
+cherry pick 3 to 4 
