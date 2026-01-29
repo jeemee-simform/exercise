@@ -2,3 +2,4 @@ exercise start
 hyyy yy   
 
 pre push add
+pre and post both commit check
