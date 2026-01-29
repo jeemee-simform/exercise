@@ -4,3 +4,4 @@ hyyy yy
 pre push add
 pre and post both commit check
 ....
+commit somthing in new2
